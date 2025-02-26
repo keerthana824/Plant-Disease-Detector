@@ -120,6 +120,15 @@ MIT License - See LICENSE for details.
 
 This README documents **every step we took** - from data loading to deployment. Let me know if you want to add/remove anything! 🚀
 
+
+![image](https://github.com/user-attachments/assets/888c532c-1d7d-463e-90c6-51bde4ea4d7c)
+
+
+![image](https://github.com/user-attachments/assets/9fa22a16-c3d9-4a5a-a243-fd5b3361a855)
+
+
+RESULT
+
 ![image](https://github.com/user-attachments/assets/8389c765-05d9-4f5d-abc8-bdbc7316e2d5)
 
 
